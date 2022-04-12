@@ -69,5 +69,5 @@ I don't promise that this is the only way to do it, or is the only correct versi
 
 
 
- *  Licensed under the MIT Licence.
+ *  Licensed under the MIT License.
 
