@@ -1,9 +1,11 @@
 I'm a newbie in this world of programming, and I couldn't find any answer to some of the questions - or I found them using different module/scripts etc.
 So I decided to post something on GitHub, the same as everyone else.
 
-For Chapter 14 - "Working with Google Sheets" from Automate the Boring Stuff with Python(2nd Edition) by Al Sweigart, steps for the first practice project:
+For Chapter 14 - "Working with Google Sheets" from Automate the Boring Stuff with Python(2nd Edition) by Al Sweigart, steps for the practice project:
 
-  * Downloading Google Forms Data:
+  * Downloading Google Forms Data
+  * Converting Spreadsheets to Other Formats
+  * Finding Mistakes in a Spreadsheet
 
 First thing I did was to login on "Google Cloud Platform" to enable two important API - I used this webiste https://console.cloud.google.com, after I've login with my details and created a new project (if you did it, and you want to make a new project -> follow the next images).
 
