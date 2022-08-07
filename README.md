@@ -1,5 +1,3 @@
-I'm a newbie in this world of programming, and I couldn't find any answer to some of the questions - or I found them using different module/scripts etc.
-
 For Chapter 14 - "Working with Google Sheets" from Automate the Boring Stuff with Python(2nd Edition) by Al Sweigart, steps for the practice project:
 
   * Downloading Google Forms Data
